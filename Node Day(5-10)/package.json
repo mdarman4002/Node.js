@@ -1,0 +1,23 @@
+{
+  "name": "node-js-youtube",
+  "version": "1.0.0",
+  "description": "learning youtube video no 8 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdarman4002/Node.js.git"
+  },
+  "author": "Arman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdarman4002/Node.js/issues"
+  },
+  "homepage": "https://github.com/mdarman4002/Node.js#readme",
+  "dependencies": {
+    "color": "^4.2.3",
+    "colors": "^1.4.0"
+  }
+}
